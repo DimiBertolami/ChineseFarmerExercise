@@ -7,6 +7,10 @@ em{
 .bad{
     color: red;
 }
+.h2{
+    color: blue;
+    background-color: yellow;
+}
 .farmer{
     font-style: italic;
     color: yellowgreen;
