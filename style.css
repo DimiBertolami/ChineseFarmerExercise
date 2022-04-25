@@ -49,13 +49,14 @@ a{
     border: 0px;
 }
 body {
-    background-color: darkslategrey;
+    background-size: cover;
+    background-position: right bottom;
     border: 0px;
     margin: 8%;
     padding: 1%;
     position: absolute;
     font-family: Helvetica Neue;
     font-size: 20px;
-    color: lightgoldenrodyellow;
+    color: yellow;
     width: 90%;
 }
