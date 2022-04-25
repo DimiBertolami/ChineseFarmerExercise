@@ -18,10 +18,11 @@ em{
 .hovertext:before {
     content: attr(data-hover);
     visibility: hidden;
-    opacity: 0;
-    width: 140px;
-    background-color: black;
-    color: #fff;
+    opacity: 50%;
+    width: 120px;
+    max-height: 70px;
+    background-color: yellow;
+    color: darkblue;
     text-align: center;
     border-radius: 5px;
     padding: 5px 0;
