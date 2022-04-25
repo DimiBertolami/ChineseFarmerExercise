@@ -7,6 +7,14 @@ em{
 .bad{
     color: red;
 }
+.farmer{
+    font-style: italic;
+    color: yellowgreen;
+}
+.villagers{
+    font-style: italic;
+    color: lightgreen;
+}
 a{
     color: aqua;
 }
@@ -48,15 +56,25 @@ a{
     padding: 0px;
     border: 0px;
 }
+.grey{
+    background-color: grey;
+}
+.black{
+    background-color: black;
+}
 body {
     background-size: cover;
     background-position: right bottom;
     border: 0px;
-    margin: 8%;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 1%;
     position: absolute;
     font-family: Helvetica Neue;
     font-size: 20px;
     color: yellow;
     width: 90%;
+}
+table{
+    border: deepskyblue ;
 }
